@@ -1,4 +1,4 @@
-# 🧠 KIMIK2 API Wrapper
+# 🧠 KIMI K2 API Wrapper
 
 This project provides a simple FastAPI-based web server that wraps around the [Kimi.com](https://www.kimi.com/) web interface. It uses Selenium to simulate interaction with the Kimi chatbot via a headless Chrome browser.
 
