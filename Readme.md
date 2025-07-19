@@ -1,5 +1,7 @@
 # 🧠 KIMI K2 API Wrapper
 
+ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters.
+
 This project provides a simple FastAPI-based web server that wraps around the [Kimi.com](https://www.kimi.com/) web interface. It uses Selenium to simulate interaction with the Kimi chatbot via a headless Chrome browser.
 
 You can send prompts to Kimi programmatically through an HTTP API and get responses back, making this useful for automation, research, or integrating Kimi into other applications.
