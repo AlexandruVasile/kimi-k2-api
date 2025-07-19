@@ -121,6 +121,7 @@ Output:
 
 ## 🛠 Future Improvements
 
+- Logging in. Right now, it is enough to use short prompts for bypassing the login and make the model working
 - Reuse browser sessions for better performance
 - Add support for streaming responses
 - Dockerize the app for easier deployment
