@@ -84,6 +84,7 @@ The interaction mimics a human using the web interface, which makes it compatibl
 
 ## ⚠️ Notes and Warnings
 
+- **Short prompts limitation**: It works just with short prompts otherwise the login page appears breaking the script.
 - **Performance**: Each API call launches a new Chrome instance, which can be resource-intensive.
 - **Stability**: If Kimi changes their website layout or class names, this script may break.
 - **Headless Mode**: Chrome runs in headless mode by default, but you can disable this for debugging by modifying the `get_kimik_response()` function.
