@@ -11,7 +11,7 @@ app = FastAPI()
 KIMIK2_URL = "https://www.kimi.com/"
 TEXT_EDITOR_CLASS_NAME = "chat-input-editor"
 SEND_BUTTON_CLASS_NAME = "send-button"
-KIMIK2_ANSWER_CLASS = "paragraph"
+KIMIK2_ANSWER_CLASS = "markdown"
 
 def get_kimik_response(prompt: str, headless: bool = True) -> str:
     # Configure WebDriver
